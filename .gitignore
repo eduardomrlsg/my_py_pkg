@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# ROS2 build folders
+build/
+install/
+log/
+
+# VSCode
+.vscode/
+
+# Linux
+*.swp
