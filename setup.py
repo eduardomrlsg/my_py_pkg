@@ -29,7 +29,9 @@ setup(
             "smartphone = my_py_pkg.smartphone:main",
             "number_publisher = my_py_pkg.number_publisher:main",
             "calculator = my_py_pkg.calculator:main",
-            "add_two_ints_server = my_py_pkg.add_two_ints_server:main"
+            "add_two_ints_server = my_py_pkg.add_two_ints_server:main",
+            "add_two_ints_client_no_oop = my_py_pkg.add_two_ints_client_no_oop:main",
+            "add_two_ints_client = my_py_pkg.add_two_ints_client:main"
         ],
     },
 )
